@@ -1,0 +1,2 @@
+# Filename_extractor
+提取指定目录下所有文件名到一个txt文件
